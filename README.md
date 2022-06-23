@@ -9,6 +9,8 @@
 9. add fontFamily extend Roboto em tailwind.config.js e index.html
 10. npm i phosphor-react
 11. npm i date-fns
+12. npm i @vime/core @vime/react --force ('force' biblioteca não compatível com a feature de stream SSR do react 18)
+13. npm i react-router-dom
 
 // CMS = Content Management System
 // Traz tanto o painel de ADMIN tanto quanto a parte visual do front-end (temas)
