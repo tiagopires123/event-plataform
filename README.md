@@ -1,3 +1,77 @@
+<p align="center">
+  <a href="#-layout">Layout</a> •
+  <a href="#-technologies">Technologies</a> •
+  <a href="#-getting-started">Getting started</a> •
+</p>
+
+## :framed_picture: Imagens ##
+
+<h1 align="center">
+    <img alt = "Web app" src = ".github/Login-Desktop.png" width = "500px" />
+    <img alt = "Web app" src = ".github/Plataforma-Desktop.png" width = "500px" />
+    <img alt = "Web app" src = ".github/Login-mobile.png" width = "500px" />
+    <img alt = "Web app" src = ".github/Login-mobile2.png" width = "500px" />
+</h1>
+
+## 🔖 Sobre o projeto
+
+The project aims to study and develop an application in React
+
+## 🚀 Technologies
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Apollo GraphQL Client](https://www.apollographql.com/docs/react/)
+- [Vitejs](https://vitejs.dev/)
+- [Phosphor icons](https://phosphoricons.com/)
+- [Date-fns](https://date-fns.org/)
+- [VimeJs](https://vimejs.com/getting-started/installation)
+- [GraphCMS](https://graphcms.com/)
+
+## 💻 Getting started
+
+### Requirements
+
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/package/npm)
+- [GraphCMS](https://graphcms.com/)
+
+**Clone the project and access the folder**
+
+```bash
+git clone git@github.com:tiagopires123/event-plataform.git && cd event-plataform
+```
+
+**Follow the steps below**
+
+### Server
+
+```bash
+# From the project root folder access the 'server' folder
+$ cd event-plataform
+
+# Install the dependencies
+$ npm install
+
+# Make a copy of '.env.example' to '.env.local'
+# and set with YOUR environment variables from GraphCMS (https://graphcms.com/).
+$ cp .env.example .env.local
+
+# Start the server
+$ npm run dev
+```
+
+---
+
+<p align="center">
+  Made with 💜
+</p>
+
+
+<!-- 
+Step by
+
 1. npm i tailwindcss postcss autoprefixer -D
 2. npx tailwindcss init -p
 3. dentro de tailwind.config.js -> './src/**/*.tsx' arquivos que terão estilização do tailwind
@@ -16,3 +90,5 @@
 // Traz tanto o painel de ADMIN tanto quanto a parte visual do front-end (temas)
 // Headless CMS (GraphCMS): Painle de ADMIN (Dados fornecidos através de uma API REST ou GraphQL)
 // React que consome essa api do CMS
+
+-->
