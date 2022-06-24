@@ -7,13 +7,15 @@
 ## :framed_picture: Imagens ##
 
 <h1 align="center">
-    <img alt = "Web app" src = ".github/Login-Desktop.png" width = "500px" />
-    <img alt = "Web app" src = ".github/Plataforma-Desktop.png" width = "500px" />
-    <img alt = "Web app" src = ".github/Login-mobile.png" width = "500px" />
-    <img alt = "Web app" src = ".github/Login-mobile2.png" width = "500px" />
+    <img alt = "Web app" src = ".github/Login-Desktop.png" width = "700px" />
+    <img alt = "Web app" src = ".github/Plataforma-Desktop.png" width = "700px" />
+    <div>
+      <img alt = "Web app" src = ".github/Login-mobile.png" width = "300px" />
+      <img alt = "Web app" src = ".github/Login-mobile2.png" width = "300px" />
+    </div>
 </h1>
 
-## 🔖 Sobre o projeto
+## 🔖 About this project
 
 The project aims to study and develop an application in React
 
